@@ -1,0 +1,24 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7CD9-E772
+
+ Directory of C:\Projects\UAT\SSIS ETL Package\Lease\S_eAimsToStage\ASB SSIS Template
+
+[.]
+[..]
+[bin]
+DF_Lease_LoadSrcToStg_eAIMS_LeaseHeader.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_LeaseRental.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_LeaseRentalSchedule.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_LeaseSummary.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_Master_Trans_XMLLoad.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_Master_XMLLoad.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_Ref_Master_XMLLoad.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_Ref_XMLLoad.dtsx
+DF_Lease_LoadSrcToStg_eAIMS_Trans_XMLLoad.dtsx
+eAimsToStage.database
+eAimsToStage.dtproj
+eAimsToStage.dtproj.user
+list.txt
+[obj]
+              13 File(s)      2,035,351 bytes
+               4 Dir(s)  25,493,291,008 bytes free
